@@ -18,4 +18,8 @@ python full_model.py --dataset PATH_TO_DATASET
 '''
 python query_image_retrieval.py --query_images QUERY_IMAGE_FOLDER --dataset PATH_TO_DATASET
 '''
+
+### Results
+
+![Results](https://github.com/gauravruhela07/Content-Based-Image-Retrieval/blob/master/result.jpg)
  
